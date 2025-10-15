@@ -84,7 +84,8 @@ Live Demo 👉 [maryangelm.netlify.app](https://maryangelm.netlify.app)
 ---
 
 ### 🧩 Project Sections
-- 🧑‍💼 About Me  
+- 🏡 Home
+- 🧑‍💼 About 
 - 🎓 Education  
 - 💡 Projects  
 - 🏅 Certifications  
@@ -95,7 +96,7 @@ Live Demo 👉 [maryangelm.netlify.app](https://maryangelm.netlify.app)
 
 ### 📬 Contact Me
 💌 **Email:** [mangelsite@gmail.com](mailto:mangelsite@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/maryangelm](https://linkedin.com/in/maryangelm)  
+🔗 **LinkedIn:** [linkedin.com/in/mary-angel-m-3m](https://www.linkedin.com/in/mary-angel-m-3m/)  
 🌎 **Portfolio:** [maryangelm.netlify.app](https://maryangelm.netlify.app)
 
 ---
