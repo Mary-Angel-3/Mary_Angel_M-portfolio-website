@@ -35,3 +35,75 @@ This is my **personal portfolio website**, built to present my **skills, educati
 ---
 
 ### 📁 Project Structure
+Mary_Angel_M-portfolio-website/
+│
+├── index.html
+├── about.html
+├── education.html
+├── projects.html
+├── certifications.html
+├── experience.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+└── assets/
+├── images/
+└── resume.pdf
+
+---
+
+### ✨ Features
+- 🎨 Clean, modern, and responsive layout  
+- 🧠 Organized sections for projects & achievements  
+- 🪶 Smooth animations and transitions  
+- 📱 Mobile-friendly and optimized for all devices  
+
+---
+
+### 🛠️ Technologies Used
+- **HTML5** — Semantic and accessible structure  
+- **CSS3** — Custom styles with gradients and animations  
+- **JavaScript (Vanilla)** — Interactivity and effects  
+- **Netlify** — Simple and fast deployment  
+
+---
+
+### 🚀 Deployment
+Deployed using **Netlify** for continuous delivery and hosting.  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/your-site-name/deploys)
+
+*(Replace `your-badge-id` and `your-site-name` after deploying to Netlify)*  
+
+Live Demo 👉 [maryangelm.netlify.app](https://maryangelm.netlify.app)
+
+---
+
+### 🧩 Project Sections
+- 🧑‍💼 About Me  
+- 🎓 Education  
+- 💡 Projects  
+- 🏅 Certifications  
+- 💼 Experience  
+- ✉️ Contact  
+
+---
+
+### 📬 Contact Me
+💌 **Email:** [mangelsite@gmail.com](mailto:mangelsite@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/maryangelm](https://linkedin.com/in/maryangelm)  
+🌎 **Portfolio:** [maryangelm.netlify.app](https://maryangelm.netlify.app)
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Mary Angel M</strong><br>
+  <em>Design. Develop. Inspire.</em>
+</p>
+
+---
+
