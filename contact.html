@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact — Mary Angel M</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Poppins:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="nav-orb">
+    <input id="menu-toggle" type="checkbox" />
+    <label for="menu-toggle" class="orb-button"></label>
+    <nav class="orb-menu">
+      <a class="orb-link" href="index.html">Home</a>
+      <a class="orb-link" href="about.html">About</a>
+      <a class="orb-link" href="education.html">Education</a>
+      <a class="orb-link" href="projects.html">Projects</a>
+      <a class="orb-link" href="certifications.html" title="Certifications">Certifications</a>
+      <a class="orb-link" href="experience.html" title="Experience">Experience</a>
+      <a class="orb-link active" href="contact.html">Contact</a>
+    </nav>
+  </div>
+
+  <canvas id="bg-canvas" class="bg-canvas"></canvas>
+
+  <section class="contact-page">
+    <div class="container contact-card">
+      <h2 class="section-title">Let’s Work Together</h2>
+      <form class="contact-form" action="#" method="post">
+        <div class="field">
+          <input required name="name" id="name" placeholder="Your name">
+        </div>
+        <div class="field">
+          <input required name="email" id="email" type="email" placeholder="Email">
+        </div>
+        <div class="field">
+          <textarea required name="message" id="message" rows="6" placeholder="Message"></textarea>
+        </div>
+        <button class="btn btn-primary" type="submit">Send Message</button>
+      </form>
+
+      <div class="contact-info">
+        <p>✉️ mangelsite@gmail.com</p>
+        <p>📞 +91 90805 53106</p>
+      </div>
+    </div>
+  </section>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
