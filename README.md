@@ -76,10 +76,12 @@ Mary_Angel_M-portfolio-website/
 
 ### 🚀 Deployment
 Deployed using **Netlify** for continuous delivery and hosting.  
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/97be34f5-9610-47cb-801a-886915b2e971/deploy-status)](https://app.netlify.com/sites/maryangelm-portfolio/deploys)
 
-Live Demo 👉 [maryangelm-portfolio.netlify.app](https://maryangelm-portfolio.netlify.app/)
+**Live Demo:** [maryangelm-portfolio.netlify.app](https://maryangelm-portfolio.netlify.app/)
 
+---
 ---
 
 *(Replace `your-badge-id` and `your-site-name` after deploying to Netlify)*  
