@@ -29,8 +29,7 @@ This is my **personal portfolio website**, built to present my **skills, educati
 ---
 
 ### 🌐 Live Preview
-🚀 **[View My Portfolio](https://maryangelm.netlify.app)**  
-*(Replace the link above once you deploy it on Netlify)*
+🚀 **[View My Portfolio]([https://maryangelm.netlify.app](https://maryangelm-portfolio.netlify.app/))**  
 
 ---
 
